@@ -1,4 +1,4 @@
-# 
+# instant JetBrains IntelliJ IDEA para PC plugins é o melhor JetBrains IntelliJ IDEA para PC plugins com rastreamento de problemas e gerenciamento de pull requests. Seguro,
 
 
 
